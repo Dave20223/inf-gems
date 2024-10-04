@@ -1,0 +1,6 @@
+local infinitegemsEnabled = true
+game:Getservice("UserinputService")..gemRequest
+  if infinitegemsEnabled then
+      game:Getservice"players".Character
+ end
+ end)
